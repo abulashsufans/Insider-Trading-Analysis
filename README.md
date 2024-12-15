@@ -1,4 +1,4 @@
-# Insider Trading Analysis (NSE)
+# Insider Trading Analysis: Understanding Market Trends and Investor Behavior
 
 ## Introduction
 

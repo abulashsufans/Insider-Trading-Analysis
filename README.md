@@ -12,6 +12,7 @@ This project analyzes insider trading activities on the National Stock Exchange 
 
 - **Power BI**: For creating interactive dashboards and visualizations.
 - **Power Query**: For data preprocessing and cleaning.
+- **Microsoft Excel**: For data analysis and manipulation.
 
 ## Graphs
 

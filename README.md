@@ -13,6 +13,22 @@ This project analyzes insider trading activities on the National Stock Exchange 
 - **Power BI**: For creating interactive dashboards and visualizations.
 - **Power Query**: For data preprocessing and cleaning.
 
+## Graphs
+
+The following graphs visualize key insights from the analysis:
+
+![Contrarian Behavior](output&dashboard/contrarian.jpeg)  
+*Insiders are contrarian to the broader market trends.*
+
+![Insider Returns](output&dashboard/insider_Returns.jpeg)  
+*Comparison of insider trade performance versus broader market performance.*
+
+![Insider Actions & Corporate Events](output&dashboard/insider_corporate_action.jpeg)  
+*Analysis of insider actions and their relationship with corporate events.*
+
+![Copycat Effect](output&dashboard/copycat.jpeg)  
+*The copycat effect shows a relationship between insider actions and market volume.*
+
 
 ## Key Findings
 

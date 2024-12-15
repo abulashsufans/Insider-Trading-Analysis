@@ -21,13 +21,13 @@ The following graphs visualize key insights from the analysis:
 *Insiders are contrarian to the broader market trends.*
 
 ![Insider Returns](output&dashboard/insider_Returns.jpeg)  
-*Comparison of insider trade performance versus broader market performance.*
+*Insider Returns.*
 
 ![Insider Actions & Corporate Events](output&dashboard/insider_corporate_action.jpeg)  
-*Analysis of insider actions and their relationship with corporate events.*
+*Analysis of insider activity and corporate events.*
 
 ![Copycat Effect](output&dashboard/copycat.jpeg)  
-*The copycat effect shows a relationship between insider actions and market volume.*
+*The copycat effect shows a relationship between insider volume and market volume.*
 
 
 ## Key Findings

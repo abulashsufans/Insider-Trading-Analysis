@@ -6,7 +6,7 @@ This project analyzes insider trading activities on the National Stock Exchange 
 
 ## Data Source
 
-- Data was extracted from the **NSE database**, focusing on insider buying, selling, and pledging activities.
+- Data was extracted from the **National Stock Exchange(NSE) database**, focusing on insider buying, selling, and pledging activities.
 
 ## Tools Used
 
@@ -19,9 +19,6 @@ The following graphs visualize key insights from the analysis:
 
 ![Contrarian Behavior](output&dashboard/contrarian.jpeg)  
 *Insiders are contrarian to the broader market trends.*
-
-![Insider Returns](output&dashboard/insider_Returns.jpeg)  
-*Insider Returns.*
 
 ![Insider Actions & Corporate Events](output&dashboard/insider_corporate_action.jpeg)  
 *Analysis of insider activity and corporate events.*
